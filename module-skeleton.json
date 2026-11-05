@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-collaboration-react-native",
+  "capabilityKey": "liberusoftware/music-collaboration",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-music-collaboration-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/music/nextjs/collaboration.md",
+  "presentationPlan": "projects/music/react-native/collaboration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
